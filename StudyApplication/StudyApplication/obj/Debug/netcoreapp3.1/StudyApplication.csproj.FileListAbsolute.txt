@@ -1,0 +1,13 @@
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.csprojAssemblyReference.cache
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.AssemblyInfoInputs.cache
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.AssemblyInfo.cs
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.csproj.CoreCompileInputs.cache
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.exe
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.deps.json
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.runtimeconfig.json
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.runtimeconfig.dev.json
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.dll
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\bin\Debug\netcoreapp3.1\StudyApplication.pdb
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.dll
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.pdb
+C:\Users\otd43\source\repos\StudyApplication\StudyApplication\obj\Debug\netcoreapp3.1\StudyApplication.genruntimeconfig.cache
